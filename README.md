@@ -1,1 +1,12 @@
-# heroes-app
+# Heroes App
+
+Creación de una SPA:
+- Proyecto de Angular usando el CLI (Command Line Interface)
+- Instalando bootstrap o librerías de terceros usando el Angular-CLI
+- Creación de rutas de nuestra aplicación
+- Uso de RouterLink y RouterLinkActive para movernos de página y colocar clases a los elementos activos.
+- Uso del modulo Router, que nos permite movernos de página mediante código.
+- Obtención de parámetros vía URL.
+- Configuración de nuestro primer servicio en Angular para el manejo de la data.
+- Breve introducción a los Pipes 
+- Uso del buscador del navbar para realizar una consulta a nuestro arreglo de héroes.
